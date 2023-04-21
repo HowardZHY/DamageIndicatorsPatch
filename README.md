@@ -8,7 +8,7 @@ Just put this and DI 1.8-3.3.3 in mods folder and you'll found DI works fine aga
 
 Q: How does it works ?
 
-A: This tweak doesn't edit any part of the original 1.8 Damage Indicators. It just adds another constuctor to ScaledResolutions.
+A: This tweak doesn't contains or edit any part of the original 1.8 Damage Indicators. It just adds another constuctor to ScaledResolutions to fix compat.
 
 Q: Why not use Toro Health / other mods on 1.8.9 ?
 
