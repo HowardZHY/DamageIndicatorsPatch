@@ -2,7 +2,7 @@
 {
   "modid": "dip",
   "name": "Damage Indicators 1.8.9 Patch",
-  "description": "Made Damage Indicators 1.8 compact with 1.8.9",
+  "description": "Made Damage Indicators 1.8 - 3.3.3 compatible with 1.8.9",
   "version": "1.8.9",
   "url": "",
   "authorList": ["HowardZHY"],
