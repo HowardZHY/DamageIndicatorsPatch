@@ -2,7 +2,9 @@
 
 Made Damage Indicators 1.8-3.3.3 compatible with MC 1.8.9.
 
-Just put this and DI 1.8-3.3.3 in mods folder and you'll found DI works fine again with PVP!
+# Guide
+1. Download DamageIndicators[1.8]v3.3.3 from original minecraftforum post [https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286538-hit-splat-damage-indicators-v3-3-2-rpg-ui-and]
+2. Just put this and DI 1.8-3.3.3 in mods folder and you'll found DI works fine again with PVP!
 
 ## Q & A
 
